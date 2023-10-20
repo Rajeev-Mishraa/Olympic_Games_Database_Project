@@ -1,6 +1,6 @@
 # 120 Years of Olympic History SQL Database Project
 
-<img src='https://png.pngtree.com/background/20210710/original/pngtree-olympic-day-games-background-picture-image_996806.jpg' alt="Alt Text" style="height: 380px; width: 1100px;">
+<img src='https://png.pngtree.com/background/20210710/original/pngtree-olympic-day-games-background-picture-image_996806.jpg' alt="Alt Text" style="height: 350px; width: 1100px;">
 
 ## Project Overview
 Welcome to the "120 Years of Olympic History" SQL Database Project. This project dives into a comprehensive dataset sourced from Kaggle, covering a century of Olympic Games. Our goal was to analyze this rich dataset and derive meaningful insights from it through SQL queries.
